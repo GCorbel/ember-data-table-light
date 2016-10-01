@@ -21,6 +21,7 @@
   "author": "QuantoSobra <quantosobra@quantosobra.com.br>",
   "license": "MIT",
   "devDependencies": {
+    "ember-bootstrap": "^0.8.0",
     "broccoli-asset-rev": "^2.4.2",
     "ember-addon-genie": "0.0.4",
     "ember-ajax": "^2.0.1",
@@ -56,10 +57,9 @@
     "ember-data"
   ],
   "dependencies": {
-    "ember-bootstrap": "^0.8.0",
     "ember-cli-babel": "^5.1.6",
     "ember-cli-htmlbars": "^1.0.5",
-    "ember-light-table": "1.0.0-beta.6",
+    "ember-light-table": "1.0.0-beta.8",
     "ember-data": "^2.5.3",
     "ember-truth-helpers": "1.2.0",
     "emberx-select": "^2.2.1"
