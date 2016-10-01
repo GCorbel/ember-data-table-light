@@ -28,7 +28,7 @@ export default Service.extend({
   deserialize(table, state) {
     get(table, 'columns').filter((item) => {
       return state.visibleColumns.indexOf(item.get('valuePath')) === -1;
-    }).setEach('hidden', true);
+    });
   },
 
   /**
