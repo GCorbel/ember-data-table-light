@@ -59,7 +59,7 @@
   "dependencies": {
     "ember-cli-babel": "^5.1.6",
     "ember-cli-htmlbars": "^1.0.5",
-    "ember-light-table": "1.0.0-beta.8",
+    "ember-light-table": "1.4.0",
     "ember-data": "^2.5.3",
     "ember-truth-helpers": "1.2.0",
     "emberx-select": "^2.2.1"
